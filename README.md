@@ -1,5 +1,6 @@
 # Bahrain Import Performance Monitor (2020-2023)
-<img width="1267" height="861" alt="image" src="https://github.com/user-attachments/assets/55fbc93f-af52-4ed8-95aa-83906597886f" />
+
+<img src="https://github.com/user-attachments/assets/55fbc93f-af52-4ed8-95aa-83906597886f" width="800" />
 
 A Power BI dashboard analyzing Bahrain's import trends and performance from January 2020 to July 2023.
 
